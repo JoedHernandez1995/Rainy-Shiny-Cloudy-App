@@ -8,7 +8,7 @@ Alamofire is an HTTP networking library written in Swift which makes the use of 
 
 App features:
 
-  - Displays current weather based on user location. 
+  - Displays current weather based on user location in real time. 
   - Displays a 5 day / 3 hour forecast for the location.
   
 Rainy Shiny Cloudy uses Location Services from iOS to get the user's current location. 
